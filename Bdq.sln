@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bdq", "Bdq.csproj", "{9A342DF3-3992-4A3D-8DCC-4FDF243290C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A342DF3-3992-4A3D-8DCC-4FDF243290C9}.Debug|x64.ActiveCfg = Debug|x64
+		{9A342DF3-3992-4A3D-8DCC-4FDF243290C9}.Debug|x64.Build.0 = Debug|x64
+		{9A342DF3-3992-4A3D-8DCC-4FDF243290C9}.Release|x64.ActiveCfg = Release|x64
+		{9A342DF3-3992-4A3D-8DCC-4FDF243290C9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D31AFB5-FCDD-41E7-A6C8-7AEB06DF7E0B}
+	EndGlobalSection
+EndGlobal
